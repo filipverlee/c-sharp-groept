@@ -1,0 +1,5 @@
+F:\Informatica\C#\Practicum\LES 12\CA_Practicum15\CA_Practicum15\bin\Debug\CA_Practicum15.exe.config
+F:\Informatica\C#\Practicum\LES 12\CA_Practicum15\CA_Practicum15\obj\Debug\CA_Practicum15.csprojResolveAssemblyReference.cache
+\\10.0.100.75\Storage\Software\LES 12\CA_Practicum15\CA_Practicum15\bin\Debug\CA_Practicum15.exe.config
+O:\Software\LES 12\CA_Practicum15\CA_Practicum15\bin\Debug\CA_Practicum15.exe.config
+O:\Software\LES 12\CA_Practicum15\CA_Practicum15\obj\Debug\CA_Practicum15.csprojResolveAssemblyReference.cache
